@@ -1,0 +1,5 @@
+{
+  "name": "Pearls AQI Predictor",
+  "description": "An interactive dashboard displaying Air Quality Index (AQI) for Pakistani cities. Features a 3-day forecast, pollutant details, and AI-powered health advice. Runs on a reliable, self-contained dataset for instant, accurate data and requires no external API keys for weather data.",
+  "requestFramePermissions": []
+}
